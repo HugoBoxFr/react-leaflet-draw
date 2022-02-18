@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  padding: 50px;
+}
+
+.content {
+  border: 1px solid lightgray;
+}
+
+.map {
+  height: 370px;
+}
